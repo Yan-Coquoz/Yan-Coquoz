@@ -1,3 +1,6 @@
+![cover](https://github.com/Yan-Coquoz/Yan-Coquoz/blob/master/img/IMG_20210406_152842.jpg)
+
+
 ### Hi there 👋
 
 <!--

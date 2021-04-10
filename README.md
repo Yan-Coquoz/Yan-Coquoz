@@ -9,7 +9,7 @@
 ### Hi there 👋
 
 <!--
-**Yan-Coquoz/Yan-Coquoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yan-Coquoz/Yan-Coquoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
 * 📫 Contact me [@Yan_Coquoz](https://twitter.com/Yan_Coquoz)

@@ -1,4 +1,5 @@
 <!-- ![cover](https://github.com/Yan-Coquoz/Yan-Coquoz/blob/master/img/IMG_20210406_152842.jpg)-->
+<!-- tuto pour la devCard  https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile?utm_source=webapp&utm_medium=devcard&utm_campaign=devcardguide&utm_id=inapp -->
 <a href="https://app.daily.dev/Dislok"><img src="https://api.daily.dev/devcards/017713812e394d3998717ac806a7f902.png?r=tvi" width="400" alt="Yan's Dev Card"/></a>
 <p align="center">
   <a href="https://yan-coquoz.github.io/Mon_Portfolio/">Website (html & css only)</a> •

@@ -5,6 +5,12 @@
       alt="LinkedIn"
     />
   </a>
+  <a href="https://twitter.com/Yan_Coquoz">
+    <img
+      src="https://img.shields.io/twitter/follow/Yan_Coquoz?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
 <a href="https://app.daily.dev/Dislok">
   <img src="https://api.daily.dev/devcards/017713812e394d3998717ac806a7f902.png?r=tvi" width="400" alt="Yan's Dev Card"/>
   </a>
@@ -16,8 +22,5 @@
 </div>
 ### Hi there 👋
 
-<!--
-**Yan-Coquoz/Yan-Coquoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-
 * 📫 Contact me [@Yan_Coquoz](https://twitter.com/Yan_Coquoz)
+* ![Metrics](https://raw.githubusercontent.com/Yan-Coquoz/Yan-Coquoz/github-metrics/github-metrics.svg)

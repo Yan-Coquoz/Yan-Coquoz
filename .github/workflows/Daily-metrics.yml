@@ -1,0 +1,2 @@
+- name: Daily-metrics
+  uses: lowlighter/metrics@v3.15

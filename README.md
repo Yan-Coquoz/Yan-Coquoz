@@ -16,8 +16,12 @@
       alt="Twitter"
     />
   </a>
+ <br/>
+  - <a href="https://github.com/Yan-Coquoz" target="_blank">
+   <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   <br/>
   <a href="https://yan-coquoz.github.io/Mon_Portfolio/">Website (html & css only)</a> 
+
 </p>
 <div align="center">
 <a href="https://app.daily.dev/Dislok">

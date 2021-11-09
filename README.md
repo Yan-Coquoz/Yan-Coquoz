@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<!-- * ![Metrics](https://raw.githubusercontent.com/Yan-Coquoz/Yan-Coquoz/github-metrics/github-metrics.svg) -->
+
 <p align="left">
   * 📫 Contact me :<br/>
     - <a href="https://www.linkedin.com/in/yan-coquoz-41081b194" target="_blank">
@@ -23,8 +23,17 @@
   <a href="https://yan-coquoz.github.io/Mon_Portfolio/">Website (html & css only)</a> 
 
 </p>
-<div align="center">
+<div align="right">
 <a href="https://app.daily.dev/Dislok">
   <img src="https://api.daily.dev/devcards/017713812e394d3998717ac806a7f902.png?r=tvi" width="400" alt="Yan's Dev Card"/>
   </a>
 </div>
+
+---
+
+[![Yan Coquoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yan-Coquoz&count_private=true&show_icons=true&theme=algolia)](https://github.com/Yan-Coquoz/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-Coquoz&langs_count=8&layout=compact&theme=algolia)](https://github.com/Yan-Coquoz/github-readme-stats)
+
+
+![Alt](https://repobeats.axiom.co/api/embed/3f7df1945ec420dc243ff0313e94e18a535bbd1d.svg "Repobeats analytics image")

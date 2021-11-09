@@ -1,8 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+---
 
 <p align="left">
-  * 📫 Contact me :<br/>
+  * 📫 Contact me :
+ <br/>
     - <a href="https://www.linkedin.com/in/yan-coquoz-41081b194" target="_blank">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"

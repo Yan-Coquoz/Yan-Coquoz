@@ -1,5 +1,5 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
+<!-- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1> -->
+<h1 align="center"><img src="./img/github-header-image.png" alt="my header"/></h1>
 ---
 
 <p align="left">
@@ -26,7 +26,7 @@
   <a href="https://yan-coquoz.github.io/Mon_Portfolio/">Website (html & css only)</a> 
 
 </p>
-<div align="right">
+<div align="center">
 <a href="https://app.daily.dev/Dislok">
   <img src="https://api.daily.dev/devcards/017713812e394d3998717ac806a7f902.png?r=tvi" width="400" alt="Yan's Dev Card"/>
   </a>

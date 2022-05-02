@@ -32,6 +32,8 @@
   </a>
 </div>
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Yan-Coquoz/Yan-Coquoz)
+
 ---
 
 [![Yan Coquoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yan-Coquoz&count_private=true&show_icons=true&theme=algolia)](https://github.com/Yan-Coquoz/github-readme-stats)
